@@ -17,4 +17,4 @@ It provides an intuitive web interface to manage your webhooks with ease. Offeri
 - **Manage Webhooks**: Easily delete or view your Discord webhooks directly from the website.
 
 ### Please Do Not Use For Harmful Purposes
-**This tool is intended for responsible use to enhance security and manage webhooks effectively. It should not be used for harmful purposes or to interfere with others communications.**
+**This website was made to enhance security and manage webhooks effectively, So Please do not use this for harmful purposes.**
